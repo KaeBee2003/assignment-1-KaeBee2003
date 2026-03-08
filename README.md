@@ -1,5 +1,7 @@
+# Movie Industry Data Analysis
 
-# 📌 **Formulating the Hypothesis**
+
+##  **Formulating the Hypothesis**
 
 ### I hypothesize that:
 
@@ -14,7 +16,7 @@
 
 ---
 
-# 🧹 **Data Preprocessing**
+# **Data Preprocessing**
 
 ### ✅ Merging Datasets
 
@@ -106,7 +108,7 @@ Observations:
 
 ---
 
-# 🧪 **Hypothesis Testing**
+#  **Hypothesis Testing**
 
 ### ✅ Hypothesis 1: *More Popular the movie, more people hype the movie, which increases vote count.*
 
